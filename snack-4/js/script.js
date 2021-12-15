@@ -9,7 +9,8 @@
      }
  }
  if (check) {
-     alert("devi inserire massimo 4 numeri")
+     alert("devi inserire massimo 4 numeri");
+ } else{
+     alert(`la somma dei tuoi numeri è ${somma}`);
  }
- console.log(somma);
 
